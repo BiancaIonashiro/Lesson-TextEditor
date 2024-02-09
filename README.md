@@ -1,2 +1,2 @@
-Cronômetro em .NET8 e C#.
+Editor de texto em .NET8 e C#.
 
